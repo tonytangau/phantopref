@@ -1,0 +1,33 @@
+{
+  "host": "https://cn.stg.apac.burberry.com",
+  "query": ["?locale=en_CN", "?locale=zh_CN"],
+  "links": [
+    "/",
+    "/men/",
+    "/women/",
+    "/beauty/",
+    "/children/",
+    "/gifts/",
+    "/scarves/",
+    "/the-trench-coat/",
+    "/womens-bags/",
+    "/womens-ponchos-wraps/",
+    "/womens-backpacks/",
+    "/womens-scarves/cashmere/",
+    "/womens-gifts/",
+    "/womens-coats-jackets/",
+    "/womens-bags/",
+    "/womens-ponchos-wraps/",
+    "/womens-backpacks/",
+    "/womens-scarves/cashmere/",
+    "/womens-gifts/",
+    "/mens-bags/",
+    "/mens-prorsum/",
+    "/womens-new-arrivals-new-in/",
+    "/customer-service/shipping",
+    "/the-classic-cashmere-scarf-in-heritage-check-p39137311",
+    "/the-chelsea-long-heritage-trench-coat-p40133161",
+    "/animal-print-fil-coupe-shift-dress-p45337961",
+    "/leather-biker-jacket-p45168071"
+  ]
+}
